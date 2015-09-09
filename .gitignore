@@ -1,0 +1,11 @@
+.*.swp
+*.swp
+*.class
+*.metadata
+*.project
+*.recommenders
+*.classpath
+.settings/
+bin/
+tmp/
+
